@@ -1,4 +1,4 @@
-import { Image } from 'react-bootstrap';
+
 
 const Home = () => {
     return (
